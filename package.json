@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "axios": "^0.20.0",
+    "bcryptjs": "^2.4.3",
+    "isomorphic-fetch": "^2.2.1",
     "next": "9.5.3",
+    "next-iron-session": "^4.1.8",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "sweetalert2": "^10.3.1"
   }
 }
